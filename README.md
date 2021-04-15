@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @j82887
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Chieh-Ming Yang
+- 📫 Email: j82887@gmail.com
 
-<!---
-j82887/j82887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My researches include image/video coding and processing, medical signal processing and big data analysis in artificial intelligence.
+- Conference paper and journal publication：
+
+| ID | Year | Publisher | Title | Paper |
+| :----: | :----: | :----: | :---- | :---- | 
+| 01 | 2020 | CVGIP | Fast Inter-Prediction Algorithm Based on Machine Learning for H.266/VVC | Conference |
+| 02 | 2019 | IPPR | Automatic Detection for Diabetic Retinopathy by Multi-channel Convolutional Neural Network | Conference |
+| 03 | 2019 | ISPACS | Trend Prediction of Influenza and the Associated Pneumonia in Taiwan Using Machine Learning | Conference |
+| 04 | 2018 | WJCC | Machine learning to relate PM2.5 and PM10 concentrations to outpatient visits for upper respiratory tract infections in Taiwan: A nationwide analysis | Journal |
+| 05 | 2018 | IEEE ICCE | Prediction of Outpatient Visits for Upper Respiratory Tract Infections by Machine Learning of PM2.5 and PM10 Levels in Taiwan | Conference |
+| 06 | 2017 | ATVB | Multiscale Entropy of Photoplethysmographic Pulse Amplitudes of Bilateral Fingertips Varies by Hand Dominance and Diabetes Status | Conference |
+| 07 | 2017 | Entropy | Discrepancies between Conventional Multiscale Entropy and Modified Short-Time Multiscale Entropy of Photoplethysmographic Pulse Signals in Middle- and Old- Aged Individuals with or without Diabetes | Journal |
+| 08 | 2017 | Complexity | Glycemic control, Hand Activity, and Complexity of Biological Signals in Diabetes Mellitus | Journal |
+| 09 | 2017 | Entropy | Multiscale Cross-Approximate Entropy Analysis of Bilateral Fingertips Photoplethysmographic Pulse Amplitudes among Middle-to-Old Aged Individuals with or without Type 2 Diabetes | Journal |
+| 10 | 2017 | ICA | Multiscale Poincaré Plots of Photoplethysmographic Pulse Amplitude for Appraising of Diabetes | Conference |
+| 11 | 2017 | EECSI | Poincaré Plot of Fingertip Photoplethysmogram Pulse Amplitude Suitable to Assess Diabetes Status | Conference |
