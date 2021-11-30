@@ -18,6 +18,8 @@ My researches include image/video coding and processing, medical signal processi
 | 10 | 2017 | Entropy | Multiscale Cross-Approximate Entropy Analysis of Bilateral Fingertips Photoplethysmographic Pulse Amplitudes among Middle-to-Old Aged Individuals with or without Type 2 Diabetes | Journal |
 | 11 | 2017 | ICA | Multiscale Poincaré Plots of Photoplethysmographic Pulse Amplitude for Appraising of Diabetes | Conference |
 | 12 | 2017 | EECSI | Poincaré Plot of Fingertip Photoplethysmogram Pulse Amplitude Suitable to Assess Diabetes Status | Conference |
+| 13 | 2017 | NST-ITCOM | 糖尿病對雙手指Photoplethysmography同步脈波訊號間交互複雜度之影響研究 | Conference |
+| 14 | 2017 | NST-ITCOM | 糖尿病對單手指Photoplethysmography脈波信號複雜度之影響研究 | Conference |
 
 ※ Detail Publication: 
 1. ORCID: https://orcid.org/0000-0002-6614-4635
