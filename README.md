@@ -21,6 +21,13 @@ My researches include image/video coding and processing, medical signal processi
 | 13 | 2017 | NST-ITCOM | 糖尿病對雙手指Photoplethysmography同步脈波訊號間交互複雜度之影響研究 | Conference |
 | 14 | 2017 | NST-ITCOM | 糖尿病對單手指Photoplethysmography脈波信號複雜度之影響研究 | Conference |
 
+
+
 ※ Detail Publication: 
 1. ORCID: https://orcid.org/0000-0002-6614-4635
 2. ResearchGate: https://www.researchgate.net/scientific-contributions/Chieh-Ming-Yang-2124853019
+
+Peer review
+| ID | Year | Publisher | Paper |
+| :----: | :----: | :----: | :---- | 
+| 01 | 2021 | Review activity for EURASIP Journal on Advances in Signal Processing | Journal |
