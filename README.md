@@ -37,5 +37,5 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Date | Title | Participant |
 | :----: | :----: | :---- | :---- | 
-| 01 | 2022.04.17 | AI入門實作班!輕鬆上手影像辨識! | Course Instructor |
+| 01 | 2022.04.16 | AI入門實作班!輕鬆上手影像辨識! | Course Instructor |
 | 02 | 2021.09.28 | 【AI原來這樣玩!】從認識到實作，一次搞懂AI玩什麼! | Speaker |
