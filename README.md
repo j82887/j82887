@@ -6,7 +6,7 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Year | Publisher | Title | Paper |
 | :----: | :----: | :----: | :---- | :---- | 
-| 01 | 2022 | -- | -- | Journal |
+| 01 | 2022 | IEEE A | Efficient Partition Decision Based on Visual Perception and Machine Learning for H.266/Versatile Video Coding | Journal |
 | 02 | 2022 | NST | 基於U-Net網路的石材切片影像精準分割 | Conference |
 | 03 | 2021 | CVGIP | Fast Partition Decision Based on Visual Perception and Machine Learning for H.266/Versatile Video Coding | Conference |
 | 04 | 2020 | CVGIP | Fast Inter-Prediction Algorithm Based on Machine Learning for H.266/VVC | Conference |
