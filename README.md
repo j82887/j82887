@@ -6,7 +6,7 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Year | Publisher | Title | Paper |
 | :----: | :----: | :----: | :---- | :---- | 
-| 00 | 2022 | TANET | -- | Conference |
+| 00 | 2022 | TANET | 機車停車空位系統 | Conference |
 | 01 | 2022 | IET ICETA | Fast Intra Coding Algorithm Based on Visual Perception Analysis for H.266/VVC | Conference |
 | 02 | 2022 | CVGIP | Continuous Recognition of Teacher’s Hand Signals for Students with Special Needs in the Classroom | Conference |
 | 03 | 2022 | IEEE Access | Efficient Partition Decision Based on Visual Perception and Machine Learning for H.266/Versatile Video Coding | Journal |
