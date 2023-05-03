@@ -6,6 +6,7 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Year | Publisher | Title | Paper |
 | :----: | :----: | :----: | :---- | :---- | 
+| 00 | -- | -- | -- | -- | 
 | 01 | 2023 | Electronics | Visual Perception Based Intra Coding Algorithm for H.266/VVC | Journal |
 | 02 | 2023 | NST | 人臉與情緒辨識之隨身智慧提示輔具應用於發展性神經障礙孩童 | Conference |
 | 03 | 2022 | TANET | 機車停車空位系統 | Conference |
