@@ -14,7 +14,7 @@ My researches include image/video coding and processing, medical signal processi
 | 06 | 2022 | CVGIP | Continuous Recognition of Teacher’s Hand Signals for Students with Special Needs in the Classroom | Conference |
 | 07 | 2022 | IEEE Access | Efficient Partition Decision Based on Visual Perception and Machine Learning for H.266/Versatile Video Coding | Journal |
 | 08 | 2022 | NST | 智慧製造：基於U-Net網路的石材切片影像精準分割 | Conference |
-| 09 | 2021 | CVGIP | Fast Partition Decision Based on Visual Perception and Machine Learning for H.266/Versatile Video Coding | Conference |
+| 09 | 2021 | CVGIP | -- | Conference |
 | 10 | 2020 | CVGIP | Fast Inter-Prediction Algorithm Based on Machine Learning for H.266/VVC | Conference |
 | 11 | 2019 | IPPR | Automatic Detection for Diabetic Retinopathy by Multi-channel Convolutional Neural Network | Conference |
 | 12 | 2019 | ISPACS | Trend Prediction of Influenza and the Associated Pneumonia in Taiwan Using Machine Learning | Conference |
