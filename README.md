@@ -6,7 +6,7 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Year | Publisher | Title | Paper |
 | :----: | :----: | :----: | :---- | :---- | 
-| 01 | 2023 | -- | -- | -- | 
+| 01 | 2023 | ICITL | Smart Glasses Application Based on Face and Facial Expression Recognition for Children with Neurodevelopmental Disorders | Conference | 
 | 02 | 2023 | IEEE Ecbios | Deep Learning for Multi-Label Recognition of Periodontitis and Dental Caries in Dental Radiographs **[Best Conference Paper Award]** | Conference | 
 | 03 | 2023 | Electronics | Visual Perception Based Intra Coding Algorithm for H.266/VVC | Journal |
 | 04 | 2023 | NST | 人臉與情緒辨識之隨身智慧提示輔具應用於發展性神經障礙孩童 | Conference |
