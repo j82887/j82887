@@ -53,6 +53,6 @@ My researches include image/video coding and processing, medical signal processi
 
 - Patent
 
-| ID | Publication Date | Application Number | Application Date | Title | Patent Type | 
+| ID | Publication Date | Application Number | Title | Patent Type | 
 | :----: | :----: | :---- | :---- | :---- | :---- | 
-| 01 | 2023/07/01 | 111212982 | 2022/05/04 | 具表情及人臉辨識與提示功能之互動式穿戴電子裝置 | Utility Model Patent | 
+| 01 | 2023/07/01 | 111212982 | 具表情及人臉辨識與提示功能之互動式穿戴電子裝置 | Utility Model Patent | 
