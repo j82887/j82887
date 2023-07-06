@@ -46,9 +46,12 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Date | Title | Participant |
 | :----: | :----: | :---- | :---- | 
-| 01 | 2023.01.01 | 《東華AI通訊報》第五期[[連結]](https://aioffice.ndhu.edu.tw/var/file/201/1201/img/4513/260469265.pdf) | School Magazine | 
-| 02 | 2022.11.15-12.13 | 斜槓夜間充電系列 - AI實作工作坊 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/pictures/671/m/mczh-tw800x800_large35663_706373101632.jpg) | Course Instructor |
-| 03 | 2022.04.16 | AI入門實作班!輕鬆上手影像辨識! | Course Instructor |
-| 04 | 2021.09.28 | 【AI原來這樣玩!】從認識到實作，一次搞懂AI玩什麼! | Speaker |
+| 01 | 2023/01/01 | 《東華AI通訊報》第五期[[連結]](https://aioffice.ndhu.edu.tw/var/file/201/1201/img/4513/260469265.pdf) | School Magazine | 
+| 02 | 2022/11/15-12/13 | 斜槓夜間充電系列 - AI實作工作坊 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/pictures/671/m/mczh-tw800x800_large35663_706373101632.jpg) | Course Instructor |
+| 03 | 2022/04/16 | AI入門實作班!輕鬆上手影像辨識! | Course Instructor |
+| 04 | 2021/09/28 | 【AI原來這樣玩!】從認識到實作，一次搞懂AI玩什麼! | Speaker |
 
-
+- Patent
+| ID | Publication Date | Application Number | Application Date | Title | Patent Type | 
+| :----: | :----: | :---- | :---- | :---- | 
+| 01 | 2023/07/01 | 111212982 | 2022/05/04 | 具表情及人臉辨識與提示功能之互動式穿戴電子裝置 | Utility Model Patent | 
