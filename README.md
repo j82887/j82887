@@ -6,7 +6,7 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Year | Publisher | Title | Paper |
 | :----: | :----: | :----: | :---- | :---- | 
-| 00 | 2023 | -- | -- | -- |
+| 00 | 2023 | -- | -- | Conference |
 | 01 | 2023 | CVGIP | Real-time Detection of Defects in Coffee Beans using Object Detection and Multi-Label Classification | Conference |
 | 02 | 2023 | IEEE APWCS | Automated Detection of Coffee Bean Defects using Multi-Deep Learning Models | Conference | 
 | 03 | 2023 | Bioengineering | Deep Learning-Based Recognition of Periodontitis and Dental Caries in Dental X-ray Images | Journal | 
