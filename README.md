@@ -51,7 +51,7 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Date | Title | Participant |
 | :----: | :----: | :---- | :---- | 
-| 01 | 2023 | -- | School Magazine | 
+| 01 | 2023 | 《東華AI通訊報》第九期[[連結]](https://aioffice.ndhu.edu.tw/var/file/201/1201/img/4513/576506230.pdf) | School Magazine | 
 | 02 | 2023 | 經濟日報2023產學合作(東華大學智慧科技深化產業辦學永續共創雙贏(撰寫部分內容))[[連結]](https://ebook.cens.com/xml/2023/edn08/mobile/index.html#p=66) | Special Issue | 
 | 03 | 2023/01/01 | 《東華AI通訊報》第五期[[連結]](https://aioffice.ndhu.edu.tw/var/file/201/1201/img/4513/260469265.pdf) | School Magazine | 
 | 04 | 2022/11/15-12/13 | 斜槓夜間充電系列 - AI實作工作坊 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/pictures/671/m/mczh-tw800x800_large35663_706373101632.jpg) | Course Instructor |
