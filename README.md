@@ -7,7 +7,7 @@ My researches include image/video coding and processing, medical signal processi
 | ID | Year | Publisher | Title | Paper |
 | :----: | :----: | :----: | :---- | :---- | 
 | 00 | -- | -- | -- | -- |
-| 01 | 2023 | TANET | -- | Conference |
+| 01 | 2023 | TANET | Integrating Shogi Game with AI Voice Assistant for Enhanced Interactivity and Gameplay Experience | Conference |
 | 02 | 2023 | CVGIP | Real-time Detection of Defects in Coffee Beans using Object Detection and Multi-Label Classification | Conference |
 | 03 | 2023 | CVGIP | The Application of 3D Spatial Object and Gesture Detection in Children’s Education | Conference |
 | 04 | 2023 | CVGIP | Application of Image Recognition and Hand Tracking in Music Therapy | Conference |
