@@ -66,5 +66,5 @@ My researches include image/video coding and processing, medical signal processi
 | ID | Publication Date | Application Number | Title | Patent Type | 
 | :----: | :----: | :----: | :---- | :---- | 
 | 01 | -- | -- | -- | -- | 
-| 02 | 2023/07/01 | 111212982 | 具表情及人臉辨識與提示功能之互動式穿戴電子裝置 | Utility Model Patent | 
-| 03 | 2023/07/01 | 111116870 | 利用深度學習之卷積神經網路輔助辨識牙周病及齲齒之系統、電腦程式及電腦可讀取媒體 (System, computer program, and computer-readable medium for assisting in the recognition of periodontitis and dental caries by using the convolutional neural network of deep learning) |  Invention Patent |
+| 02 | 2023/07/01 | TW111212982 | 具表情及人臉辨識與提示功能之互動式穿戴電子裝置 | Utility Model Patent | 
+| 03 | 2023/07/01 | TW111116870A | 利用深度學習之卷積神經網路輔助辨識牙周病及齲齒之系統、電腦程式及電腦可讀取媒體 (System, computer program, and computer-readable medium for assisting in the recognition of periodontitis and dental caries by using the convolutional neural network of deep learning) |  Invention Patent |
