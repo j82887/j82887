@@ -7,7 +7,7 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Year | Publisher | Title | Paper |
 | :----: | :----: | :----: | :---- | :---- | 
-| 01 | 2024 | NST | Deep Multi-Task Learning Applied to Slate Area and Type Detection | Conference | 
+| 01 | 2024 | NST | Deep Multi-Task Learning Applied to Slate Area and Type Detection **[Corresponding Author]** | Conference | 
 | 02 | 2023 | Global VIP Student Workshop | VIP(Vertically Integrated Projects) Oral **[Oral- Bronze Award]** | Workshop |
 | 03 | 2023 | TANET | Integrating Shogi Game with AI Voice Assistant for Enhanced Interactivity and Gameplay Experience | Conference |
 | 04 | 2023 | CVGIP | Real-time Detection of Defects in Coffee Beans using Object Detection and Multi-Label Classification **[First Author]** | Conference |
@@ -37,7 +37,7 @@ My researches include image/video coding and processing, medical signal processi
 | 28 | 2017 | ICA | Multiscale Poincaré Plots of Photoplethysmographic Pulse Amplitude for Appraising of Diabetes [[link]](https://ieeexplore.ieee.org/document/8068426) | Conference |
 | 29 | 2017 | EECSI | Poincaré Plot of Fingertip Photoplethysmogram Pulse Amplitude Suitable to Assess Diabetes Status [[link]](https://ieeexplore.ieee.org/document/8239097) | Conference |
 | 30 | 2017 | NST-ITCOM | 糖尿病對雙手指Photoplethysmography同步脈波訊號間交互複雜度之影響研究 | Conference |
-| 31 | 2017 | NST-ITCOM | 糖尿病對單手指Photoplethysmography脈波信號複雜度之影響研究 | Conference |
+| 31 | 2017 | NST-ITCOM | 糖尿病對單手指Photoplethysmography脈波信號複雜度之影響研究 **[First Author]** | Conference |
 
 ※ Detail Publication: 
 1. ORCID: https://orcid.org/0000-0002-6614-4635
