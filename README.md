@@ -10,20 +10,20 @@ My researches include image/video coding and processing, medical signal processi
 | 01 | 2024 | NST | Deep Multi-Task Learning Applied to Slate Area and Type Detection | Conference | 
 | 02 | 2023 | Global VIP Student Workshop | VIP(Vertically Integrated Projects) Oral **[Oral- Bronze Award]** | Workshop |
 | 03 | 2023 | TANET | Integrating Shogi Game with AI Voice Assistant for Enhanced Interactivity and Gameplay Experience | Conference |
-| 04 | 2023 | CVGIP | Real-time Detection of Defects in Coffee Beans using Object Detection and Multi-Label Classification | Conference |
+| 04 | 2023 | CVGIP | Real-time Detection of Defects in Coffee Beans using Object Detection and Multi-Label Classification **[First Author]** | Conference |
 | 05 | 2023 | CVGIP | The Application of 3D Spatial Object and Gesture Detection in Children’s Education | Conference |
 | 06 | 2023 | CVGIP | Application of Image Recognition and Hand Tracking in Music Therapy | Conference |
 | 07 | 2023 | IEEE APWCS | Automated Detection of Coffee Bean Defects using Multi-Deep Learning Models [[link]](https://ieeexplore.ieee.org/document/10234059) | Conference | 
 | 08 | 2023 | Bioengineering | Deep Learning-Based Recognition of Periodontitis and Dental Caries in Dental X-ray Images [[link]](https://www.mdpi.com/2306-5354/10/8/911) | Journal | 
-| 09 | 2023 | ICITL | Smart Glasses Application Based on Face and Facial Expression Recognition for Children with Neurodevelopmental Disorders | Conference | 
+| 09 | 2023 | ICITL | Smart Glasses Application Based on Face and Facial Expression Recognition for Children with Neurodevelopmental Disorders **[First Author]** | Conference | 
 | 10 | 2023 | IEEE Ecbios | Deep Learning for Multi-Label Recognition of Periodontitis and Dental Caries in Dental Radiographs **[Best Conference Paper Award]** | Conference | 
 | 11 | 2023 | Electronics | Visual Perception Based Intra Coding Algorithm for H.266/VVC [[link]](https://www.mdpi.com/2079-9292/12/9/2079) | Journal |
-| 12 | 2023 | NST | 人臉與情緒辨識之隨身智慧提示輔具應用於發展性神經障礙孩童 | Conference |
+| 12 | 2023 | NST | 人臉與情緒辨識之隨身智慧提示輔具應用於發展性神經障礙孩童 **[First Author]** | Conference |
 | 13 | 2022 | TANET | 機車停車空位系統 | Conference |
 | 14 | 2022 | IET ICETA | Fast Intra Coding Algorithm Based on Visual Perception Analysis for H.266/VVC [[link]](https://ieeexplore.ieee.org/document/9971682) | Conference |
 | 15 | 2022 | CVGIP | Continuous Recognition of Teacher’s Hand Signals for Students with Special Needs in the Classroom | Conference |
 | 16 | 2022 | IEEE Access | Efficient Partition Decision Based on Visual Perception and Machine Learning for H.266/Versatile Video Coding [[link]](https://ieeexplore.ieee.org/document/9758705) | Journal |
-| 17 | 2022 | NST | 智慧製造：基於U-Net網路的石材切片影像精準分割 | Conference |
+| 17 | 2022 | NST | 智慧製造：基於U-Net網路的石材切片影像精準分割 **[First Author]** | Conference |
 | 18 | 2021 | CVGIP | Fast Partition Decision Based on Visual Perception and Machine Learning for H.266/Versatile Video Coding | Conference |
 | 19 | 2020 | CVGIP | Fast Inter-Prediction Algorithm Based on Machine Learning for H.266/VVC | Conference |
 | 20 | 2019 | CVGIP | Automatic Detection for Diabetic Retinopathy by Multi-channel Convolutional Neural Network | Conference |
