@@ -37,7 +37,7 @@ My researches include image/video coding and processing, medical signal processi
 | 28 | 2017 | ICA | Multiscale Poincaré Plots of Photoplethysmographic Pulse Amplitude for Appraising of Diabetes [[link]](https://ieeexplore.ieee.org/document/8068426) | Conference |
 | 29 | 2017 | EECSI | Poincaré Plot of Fingertip Photoplethysmogram Pulse Amplitude Suitable to Assess Diabetes Status [[link]](https://ieeexplore.ieee.org/document/8239097) | Conference |
 | 30 | 2017 | NST-ITCOM | 糖尿病對雙手指Photoplethysmography同步脈波訊號間交互複雜度之影響研究 | Conference |
-| 31 | 2017 | NST-ITCOM | 糖尿病對單手指Photoplethysmography脈波信號複雜度之影響研究 **[First Author]** | Conference |
+| 31 | 2017 | NST-ITCOM | 糖尿病對單手指Photoplethysmography脈波信號複雜度之影響研究 | Conference |
 
 ※ Detail Publication: 
 1. ORCID: https://orcid.org/0000-0002-6614-4635
