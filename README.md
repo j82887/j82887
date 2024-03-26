@@ -61,8 +61,8 @@ My researches include image/video coding and processing, medical signal processi
 | 05 | 2023 | 經濟日報2023產學合作(東華大學智慧科技深化產業辦學永續共創雙贏(撰寫部分內容))[[連結]](https://ebook.cens.com/xml/2023/edn08/mobile/index.html#p=66) | Special Issue | 
 | 06 | 2023/01/01 | 《東華AI通訊報》第五期[[連結]](https://aioffice.ndhu.edu.tw/var/file/201/1201/img/4513/260469265.pdf) | School Magazine | 
 | 07 | 2022/11/15-12/13 | 斜槓夜間充電系列 - AI實作工作坊 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/pictures/671/m/mczh-tw800x800_large35663_706373101632.jpg) | Course Instructor |
-| 08 | 2022/04/16 | AI入門實作班!輕鬆上手影像辨識! | Course Instructor |
-| 09 | 2021/09/28 | 【AI原來這樣玩!】從認識到實作，一次搞懂AI玩什麼! | Speaker |
+| 08 | 2022/04/16 | AI入門實作班!輕鬆上手影像辨識! [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/51/2551/gallery_2551_1556776_44583.jpg) | Course Instructor |
+| 09 | 2021/09/28 | 【AI原來這樣玩!】從認識到實作，一次搞懂AI玩什麼! [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/pictures/367/m/mczh-tw800x800_large31675_891436225131.jpeg) | Speaker |
 
 - Patent
 
