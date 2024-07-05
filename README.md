@@ -7,7 +7,8 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Year | Publisher | Title | Paper |
 | :----: | :----: | :----: | :---- | :---- | 
-| 01 | 2024 | ICITL | -- | Conference | 
+| 00 | 2024 | ICITL | -- | Conference | 
+| 01 | 2024 | Algorithms | -- | Journal | 
 | 02 | 2024 | NST | Deep Multi-Task Learning Applied to Slate Area and Type Detection **[Corresponding Author]** | Conference | 
 | 03 | 2023 | Global VIP Student Workshop | VIP(Vertically Integrated Projects) Oral **[Oral- Bronze Award]** | Workshop |
 | 04 | 2023 | TANET | Integrating Shogi Game with AI Voice Assistant for Enhanced Interactivity and Gameplay Experience | Conference |
