@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chieh-Ming Yang
-- 📫 Email: j82887@gmail.com
+- 📫 Email: j82887@gmail.com ; yangcm@nycu.edu.tw
 - 💻 Personal Website(Chinese): [Link](https://yangcm6.wordpress.com/)
 
 My researches include image/video coding and processing, medical signal processing and big data analysis in artificial intelligence.
