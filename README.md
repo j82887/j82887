@@ -80,4 +80,4 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Date | Competition Name | Location | Other | 
 | :----: | :----: | :----: | :----:| :----: | 
-| 00 | -- | -- | -- | -- |
+| 01 | 2019/12/15-2020/01/15 | 玉山人工智慧公開挑戰賽2019秋季賽 真相只有一個『信用卡盜刷偵測』  | Online | -- |
