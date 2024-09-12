@@ -77,6 +77,6 @@ My researches include image/video coding and processing, medical signal processi
 | 03 | 2023/07/01 | TW111116870A | 利用深度學習之卷積神經網路輔助辨識牙周病及齲齒之系統、電腦程式及電腦可讀取媒體 (System, computer program, and computer-readable medium for assisting in the recognition of periodontitis and dental caries by using the convolutional neural network of deep learning) |  Invention Patent |
 
 - Participating in a competition
-  | ID | Date | Competition Name | Location | Other | 
+| ID | Date | Competition Name | Location | Other | 
 | :----: | :----: | :----: | :---- | :---- | 
-| -- | -- | -- | -- | -- |
+| 00 | -- | -- | -- | -- |
