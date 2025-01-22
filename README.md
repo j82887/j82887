@@ -7,7 +7,7 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Year | Publisher | Title | Paper |
 | :----: | :----: | :----: | :---- | :---- | 
-| 00 | -- | -- | -- | -- |
+| 00 | 2025 | -- | -- | -- |
 | 01 | 2024 | ICITL | Application of Deep Learning in Music Therapy | Conference | 
 | 02 | 2024 | Algorithms | Continuous Recognition of Teachers’ Hand Signals for Students with Attention Deficits [[link]](https://mdpi.com/1999-4893/17/7/300) | Journal | 
 | 03 | 2024 | NST | Deep Multi-Task Learning Applied to Slate Area and Type Detection **[Corresponding Author]** | Conference | 
