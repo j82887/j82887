@@ -57,6 +57,7 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Date | Title | Participant |
 | :----: | :----: | :---- | :---- | 
+| 00 | 2024/04/30 | 打開AI視覺之眼 - 入門物件偵測，零基礎也能學會！| Course Instructor | 
 | 01 | 2024/05/25、06/01 | 生成式AI培訓工作坊[[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_1904116_93963.jpg) | Course Instructor | 
 | 02 | 2024/03/28、04/11 | 深入電腦視覺 從理論到應用[[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_5878797_29975.jpg) | Course Instructor | 
 | 03 | 2024/03/14、03/21 | Mediapipe 打造視覺應用的關鍵技術 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_4901158_45679.jpg) | Course Instructor | 
