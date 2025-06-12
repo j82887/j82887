@@ -57,18 +57,18 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Date | Title | Participant |
 | :----: | :----: | :---- | :---- | 
-| 00 | -- | -- | Course Instructor | 
-| 01 | 2024/04/30 | 打開AI視覺之眼 - 入門物件偵測，零基礎也能學會！| Course Instructor | 
-| 02 | 2024/05/25、06/01 | 生成式AI培訓工作坊[[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_1904116_93963.jpg) | Course Instructor | 
-| 03 | 2024/03/28、04/11 | 深入電腦視覺 從理論到應用[[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_5878797_29975.jpg) | Course Instructor | 
-| 04 | 2024/03/14、03/21 | Mediapipe 打造視覺應用的關鍵技術 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_4901158_45679.jpg) | Course Instructor | 
-| 05 | 2024/02/29、03/07 | AI基礎課程 讓你無痛入門，打穩根基 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_2674767_81233.jpg) | Course Instructor | 
-| 06 | 2023 | 《東華AI通訊報》第九期[[連結]](https://aioffice.ndhu.edu.tw/var/file/201/1201/img/4513/576506230.pdf) | School Magazine | 
-| 07 | 2023 | 經濟日報2023產學合作(東華大學智慧科技深化產業辦學永續共創雙贏(撰寫部分內容))[[連結]](https://ebook.cens.com/xml/2023/edn08/mobile/index.html#p=66) | Special Issue | 
-| 08 | 2023/01/01 | 《東華AI通訊報》第五期[[連結]](https://aioffice.ndhu.edu.tw/var/file/201/1201/img/4513/260469265.pdf) | School Magazine | 
-| 09 | 2022/11/15-12/13 | 斜槓夜間充電系列 - AI實作工作坊 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/pictures/671/m/mczh-tw800x800_large35663_706373101632.jpg) | Course Instructor |
-| 10 | 2022/04/16 | AI入門實作班!輕鬆上手影像辨識! [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/51/2551/gallery_2551_1556776_44583.jpg) | Course Instructor |
-| 11 | 2021/09/28 | 【AI原來這樣玩!】從認識到實作，一次搞懂AI玩什麼! [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/pictures/367/m/mczh-tw800x800_large31675_891436225131.jpeg) | Speaker |
+| 01 | -- | -- | Course Instructor | 
+| 02 | 2024/04/30 | 打開AI視覺之眼 - 入門物件偵測，零基礎也能學會！| Course Instructor | 
+| 03 | 2024/05/25、06/01 | 生成式AI培訓工作坊[[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_1904116_93963.jpg) | Course Instructor | 
+| 04 | 2024/03/28、04/11 | 深入電腦視覺 從理論到應用[[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_5878797_29975.jpg) | Course Instructor | 
+| 05 | 2024/03/14、03/21 | Mediapipe 打造視覺應用的關鍵技術 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_4901158_45679.jpg) | Course Instructor | 
+| 06 | 2024/02/29、03/07 | AI基礎課程 讓你無痛入門，打穩根基 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_2674767_81233.jpg) | Course Instructor | 
+| 07 | 2023 | 《東華AI通訊報》第九期[[連結]](https://aioffice.ndhu.edu.tw/var/file/201/1201/img/4513/576506230.pdf) | School Magazine | 
+| 08 | 2023 | 經濟日報2023產學合作(東華大學智慧科技深化產業辦學永續共創雙贏(撰寫部分內容))[[連結]](https://ebook.cens.com/xml/2023/edn08/mobile/index.html#p=66) | Special Issue | 
+| 09 | 2023/01/01 | 《東華AI通訊報》第五期[[連結]](https://aioffice.ndhu.edu.tw/var/file/201/1201/img/4513/260469265.pdf) | School Magazine | 
+| 10 | 2022/11/15-12/13 | 斜槓夜間充電系列 - AI實作工作坊 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/pictures/671/m/mczh-tw800x800_large35663_706373101632.jpg) | Course Instructor |
+| 11 | 2022/04/16 | AI入門實作班!輕鬆上手影像辨識! [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/51/2551/gallery_2551_1556776_44583.jpg) | Course Instructor |
+| 12 | 2021/09/28 | 【AI原來這樣玩!】從認識到實作，一次搞懂AI玩什麼! [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/pictures/367/m/mczh-tw800x800_large31675_891436225131.jpeg) | Speaker |
 
 - Patent
 
