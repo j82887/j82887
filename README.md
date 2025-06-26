@@ -59,7 +59,7 @@ My researches include image/video coding and processing, medical signal processi
 | :----: | :----: | :---- | :---- | 
 | 01 | 2025/05/07 | 影像分割基礎實戰！精準視覺，像素級AI洞察[[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_7749399_64208.jpg) | Course Instructor | 
 | 02 | 2025/04/30 | 打開AI視覺之眼 - 入門物件偵測，零基礎也能學會！[[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_1073747_64208.jpg) | Course Instructor |
-| 03 | 2024/ | -- | Course Instructor |
+| 03 | 2024/11/06 | [中華大學演講]AI的日常生活應用 - 你不知道的背後技術 [[演講投影片]](https://drive.google.com/file/d/1RAr75xSk8RPJQfyUujx4T4ujvqLqc7zV/view?usp=drive_link) | Course Instructor |
 | 04 | 2024/05/25、06/01 | 生成式AI培訓工作坊[[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_1904116_93963.jpg) | Course Instructor | 
 | 05 | 2024/03/28、04/11 | 深入電腦視覺 從理論到應用[[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_5878797_29975.jpg) | Course Instructor | 
 | 06 | 2024/03/14、03/21 | Mediapipe 打造視覺應用的關鍵技術 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_4901158_45679.jpg) | Course Instructor | 
