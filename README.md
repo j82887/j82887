@@ -1,3 +1,10 @@
+### 📊 GitHub Stats
+![Chieh-Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vue)
+
+### 🧠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide=css)
+
+
 - 👋 Hi, I’m Chieh-Ming Yang
 - 📫 Email: j82887@gmail.com
 - 💻 Personal Website(Chinese): [Link](https://yangcm6.wordpress.com/)
