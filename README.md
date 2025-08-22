@@ -12,7 +12,7 @@ My researches include image/video coding and processing, medical signal processi
 | 03 | 2024 | Algorithms | Continuous Recognition of Teachers’ Hand Signals for Students with Attention Deficits [[link]](https://mdpi.com/1999-4893/17/7/300) | Journal | 
 | 04 | 2024 | NST | Deep Multi-Task Learning Applied to Slate Area and Type Detection **[Corresponding Author]** | Conference | 
 | 05 | 2023 | Global VIP Student Workshop | VIP(Vertically Integrated Projects) Oral **[Oral- Bronze Award]** | Workshop |
-| 06 | 2023 | TANET | Integrating Shogi Game with AI Voice Assistant for Enhanced Interactivity and Gameplay Experience | Conference |
+| 06 | 2023 | TANET | Integrating Shogi Game with AI Voice Assistant for Enhanced Interactivity and Gameplay Experience [[Link]](https://raw.githubusercontent.com/j82887/j82887/main/2023%20-%20Integrating%20Shogi%20Game%20with%20AI%20Voice%20Assistant%20for%20Enhanced%20Interactivity%20and%20Gameplay%20Experience.pdf) | Conference |
 | 07 | 2023 | CVGIP | Real-time Detection of Defects in Coffee Beans using Object Detection and Multi-Label Classification **[First Author]** | Conference |
 | 08 | 2023 | CVGIP | The Application of 3D Spatial Object and Gesture Detection in Children’s Education | Conference |
 | 09 | 2023 | CVGIP | Application of Image Recognition and Hand Tracking in Music Therapy | Conference |
