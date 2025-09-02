@@ -13,7 +13,7 @@ My researches include image/video coding and processing, medical signal processi
 | 04 | 2024 | NST | Deep Multi-Task Learning Applied to Slate Area and Type Detection **[Corresponding Author]** | Conference | 
 | 05 | 2023 | Global VIP Student Workshop | VIP(Vertically Integrated Projects) Oral **[Oral- Bronze Award]** | Workshop |
 | 06 | 2023 | TANET | Integrating Shogi Game with AI Voice Assistant for Enhanced Interactivity and Gameplay Experience [[link]](https://raw.githubusercontent.com/j82887/j82887/main/2023%20-%20Integrating%20Shogi%20Game%20with%20AI%20Voice%20Assistant%20for%20Enhanced%20Interactivity%20and%20Gameplay%20Experience.pdf) | Conference |
-| 07 | 2023 | CVGIP | Real-time Detection of Defects in Coffee Beans using Object Detection and Multi-Label Classification **[First Author]** | Conference |
+| 07 | 2023 | CVGIP | Real-time Detection of Defects in Coffee Beans using Object Detection and Multi-Label Classification **[First Author]** [[link]](https://raw.githubusercontent.com/j82887/j82887/main/2023%20-%20Real-time%20Detection%20of%20Defects%20in%20Coffee%20Beans%20using%20Object%20Detection%20and%20Multi-Label%20Classification.pdf) | Conference |
 | 08 | 2023 | CVGIP | The Application of 3D Spatial Object and Gesture Detection in Children’s Education [Link] | Conference |
 | 09 | 2023 | CVGIP | Application of Image Recognition and Hand Tracking in Music Therapy | Conference |
 | 10 | 2023 | IEEE APWCS | Automated Detection of Coffee Bean Defects using Multi-Deep Learning Models [[link]](https://ieeexplore.ieee.org/document/10234059) | Conference | 
