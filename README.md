@@ -7,41 +7,41 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Year | Publisher | Title | Paper |
 | :----: | :----: | :----: | :---- | :---- | 
-| 00 | 2025 | iFUZZY | A Dual-Stage EEG Classification Framework using Spectral and Connectivity Features for MCI **[First Author]** | Conference |
-| 01 | 2025 | IEEE EMBC | Bipolar EEG Power Spectral Density Analysis of Resting-State for Multi-Level Cognitive Impairment Evaluation **[First Author]** | Conference |
-| 02 | 2024 | ICITL | Application of Deep Learning in Music Therapy | Conference | 
-| 03 | 2024 | Algorithms | Continuous Recognition of Teachers’ Hand Signals for Students with Attention Deficits [[link]](https://mdpi.com/1999-4893/17/7/300) | Journal | 
-| 04 | 2024 | NST | Deep Multi-Task Learning Applied to Slate Area and Type Detection **[Corresponding Author]** | Conference | 
-| 05 | 2023 | Global VIP Student Workshop | VIP(Vertically Integrated Projects) Oral **[Oral- Bronze Award]** | Workshop |
-| 06 | 2023 | TANET | Integrating Shogi Game with AI Voice Assistant for Enhanced Interactivity and Gameplay Experience [[link]](https://raw.githubusercontent.com/j82887/j82887/main/2023%20-%20Integrating%20Shogi%20Game%20with%20AI%20Voice%20Assistant%20for%20Enhanced%20Interactivity%20and%20Gameplay%20Experience.pdf) | Conference |
-| 07 | 2023 | CVGIP | Real-time Detection of Defects in Coffee Beans using Object Detection and Multi-Label Classification **[First Author]** [[link]](https://raw.githubusercontent.com/j82887/j82887/main/2023%20-%20Real-time%20Detection%20of%20Defects%20in%20Coffee%20Beans%20using%20Object%20Detection%20and%20Multi-Label%20Classification.pdf) | Conference |
-| 08 | 2023 | CVGIP | The Application of 3D Spatial Object and Gesture Detection in Children’s Education [[link]](https://raw.githubusercontent.com/j82887/j82887/main/2023%20-%20The%20application%20of%203D%20spatial%20object%20and%20gesture%20detection%20in%20children's%20education.pdf) | Conference |
-| 09 | 2023 | CVGIP | Application of Image Recognition and Hand Tracking in Music Therapy [link] | Conference |
-| 10 | 2023 | IEEE APWCS | Automated Detection of Coffee Bean Defects using Multi-Deep Learning Models [[link]](https://ieeexplore.ieee.org/document/10234059) | Conference | 
-| 11 | 2023 | Bioengineering | Deep Learning-Based Recognition of Periodontitis and Dental Caries in Dental X-ray Images [[link]](https://www.mdpi.com/2306-5354/10/8/911) | Journal | 
-| 12 | 2023 | ICITL | Smart Glasses Application Based on Face and Facial Expression Recognition for Children with Neurodevelopmental Disorders **[First Author]** | Conference | 
-| 13 | 2023 | IEEE ECBIOS | Deep Learning for Multi-Label Recognition of Periodontitis and Dental Caries in Dental Radiographs **[Best Conference Paper Award]** | Conference | 
-| 14 | 2023 | Electronics | Visual Perception Based Intra Coding Algorithm for H.266/VVC [[link]](https://www.mdpi.com/2079-9292/12/9/2079) | Journal |
-| 15 | 2023 | NST | 人臉與情緒辨識之隨身智慧提示輔具應用於發展性神經障礙孩童 **[First Author]** | Conference |
-| 16 | 2022 | TANET | 機車停車空位系統 | Conference |
-| 17 | 2022 | IET ICETA | Fast Intra Coding Algorithm Based on Visual Perception Analysis for H.266/VVC [[link]](https://ieeexplore.ieee.org/document/9971682) | Conference |
-| 18 | 2022 | CVGIP | Continuous Recognition of Teacher’s Hand Signals for Students with Special Needs in the Classroom | Conference |
-| 19 | 2022 | IEEE Access | Efficient Partition Decision Based on Visual Perception and Machine Learning for H.266/Versatile Video Coding [[link]](https://ieeexplore.ieee.org/document/9758705) | Journal |
-| 20 | 2022 | NST | 智慧製造：基於U-Net網路的石材切片影像精準分割 **[First Author]** | Conference |
-| 21 | 2021 | CVGIP | Fast Partition Decision Based on Visual Perception and Machine Learning for H.266/Versatile Video Coding | Conference |
-| 22 | 2020 | CVGIP | Fast Inter-Prediction Algorithm Based on Machine Learning for H.266/VVC | Conference |
-| 23 | 2019 | CVGIP | Automatic Detection for Diabetic Retinopathy by Multi-channel Convolutional Neural Network | Conference |
-| 24 | 2019 | ISPACS | Trend Prediction of Influenza and the Associated Pneumonia in Taiwan Using Machine Learning [[link]](https://ieeexplore.ieee.org/document/8986244) | Conference |
-| 25 | 2018 | WJCC | Machine learning to relate PM2.5 and PM10 concentrations to outpatient visits for upper respiratory tract infections in Taiwan: A nationwide analysis [[link]](https://pubmed.ncbi.nlm.nih.gov/30148148/) | Journal |
-| 26 | 2018 | IEEE ICCE | Prediction of Outpatient Visits for Upper Respiratory Tract Infections by Machine Learning of PM2.5 and PM10 Levels in Taiwan [[link]](https://ieeexplore.ieee.org/document/8448613) | Conference |
-| 27 | 2017 | ATVB | Multiscale Entropy of Photoplethysmographic Pulse Amplitudes of Bilateral Fingertips Varies by Hand Dominance and Diabetes Status [[link]](https://www.ahajournals.org/doi/10.1161/atvb.37.suppl_1.160) | Conference |
-| 28 | 2017 | Entropy | Discrepancies between Conventional Multiscale Entropy and Modified Short-Time Multiscale Entropy of Photoplethysmographic Pulse Signals in Middle- and Old- Aged Individuals with or without Diabetes [[link]](https://www.mdpi.com/1099-4300/19/3/132) | Journal |
-| 29 | 2017 | Complexity | Glycemic control, Hand Activity, and Complexity of Biological Signals in Diabetes Mellitus [[link]](https://www.hindawi.com/journals/complexity/2017/3472121/) | Journal |
-| 30 | 2017 | Entropy | Multiscale Cross-Approximate Entropy Analysis of Bilateral Fingertips Photoplethysmographic Pulse Amplitudes among Middle-to-Old Aged Individuals with or without Type 2 Diabetes [[link]](https://www.mdpi.com/1099-4300/19/4/145) | Journal |
-| 31 | 2017 | ICA | Multiscale Poincaré Plots of Photoplethysmographic Pulse Amplitude for Appraising of Diabetes [[link]](https://ieeexplore.ieee.org/document/8068426) | Conference |
-| 32 | 2017 | EECSI | Poincaré Plot of Fingertip Photoplethysmogram Pulse Amplitude Suitable to Assess Diabetes Status [[link]](https://ieeexplore.ieee.org/document/8239097) | Conference |
-| 33 | 2017 | NST-ITCOM | 糖尿病對雙手指Photoplethysmography同步脈波訊號間交互複雜度之影響研究 | Conference |
-| 34 | 2017 | NST-ITCOM | 糖尿病對單手指Photoplethysmography脈波信號複雜度之影響研究 | Conference |
+| 01 | 2025 | iFUZZY | A Dual-Stage EEG Classification Framework using Spectral and Connectivity Features for MCI **[First Author]** | Conference |
+| 02 | 2025 | IEEE EMBC | Bipolar EEG Power Spectral Density Analysis of Resting-State for Multi-Level Cognitive Impairment Evaluation **[First Author]** | Conference |
+| 03 | 2024 | ICITL | Application of Deep Learning in Music Therapy | Conference | 
+| 04 | 2024 | Algorithms | Continuous Recognition of Teachers’ Hand Signals for Students with Attention Deficits [[link]](https://mdpi.com/1999-4893/17/7/300) | Journal | 
+| 05 | 2024 | NST | Deep Multi-Task Learning Applied to Slate Area and Type Detection **[Corresponding Author]** | Conference | 
+| 06 | 2023 | Global VIP Student Workshop | VIP(Vertically Integrated Projects) Oral **[Oral- Bronze Award]** | Workshop |
+| 07 | 2023 | TANET | Integrating Shogi Game with AI Voice Assistant for Enhanced Interactivity and Gameplay Experience [[link]](https://raw.githubusercontent.com/j82887/j82887/main/2023%20-%20Integrating%20Shogi%20Game%20with%20AI%20Voice%20Assistant%20for%20Enhanced%20Interactivity%20and%20Gameplay%20Experience.pdf) | Conference |
+| 08 | 2023 | CVGIP | Real-time Detection of Defects in Coffee Beans using Object Detection and Multi-Label Classification **[First Author]** [[link]](https://raw.githubusercontent.com/j82887/j82887/main/2023%20-%20Real-time%20Detection%20of%20Defects%20in%20Coffee%20Beans%20using%20Object%20Detection%20and%20Multi-Label%20Classification.pdf) | Conference |
+| 09 | 2023 | CVGIP | The Application of 3D Spatial Object and Gesture Detection in Children’s Education [[link]](https://raw.githubusercontent.com/j82887/j82887/main/2023%20-%20The%20application%20of%203D%20spatial%20object%20and%20gesture%20detection%20in%20children's%20education.pdf) | Conference |
+| 10 | 2023 | CVGIP | Application of Image Recognition and Hand Tracking in Music Therapy [link] | Conference |
+| 11 | 2023 | IEEE APWCS | Automated Detection of Coffee Bean Defects using Multi-Deep Learning Models [[link]](https://ieeexplore.ieee.org/document/10234059) | Conference | 
+| 12 | 2023 | Bioengineering | Deep Learning-Based Recognition of Periodontitis and Dental Caries in Dental X-ray Images [[link]](https://www.mdpi.com/2306-5354/10/8/911) | Journal | 
+| 13 | 2023 | ICITL | Smart Glasses Application Based on Face and Facial Expression Recognition for Children with Neurodevelopmental Disorders **[First Author]** | Conference | 
+| 14 | 2023 | IEEE ECBIOS | Deep Learning for Multi-Label Recognition of Periodontitis and Dental Caries in Dental Radiographs **[Best Conference Paper Award]** | Conference | 
+| 15 | 2023 | Electronics | Visual Perception Based Intra Coding Algorithm for H.266/VVC [[link]](https://www.mdpi.com/2079-9292/12/9/2079) | Journal |
+| 16 | 2023 | NST | 人臉與情緒辨識之隨身智慧提示輔具應用於發展性神經障礙孩童 **[First Author]** | Conference |
+| 17 | 2022 | TANET | 機車停車空位系統 | Conference |
+| 18 | 2022 | IET ICETA | Fast Intra Coding Algorithm Based on Visual Perception Analysis for H.266/VVC [[link]](https://ieeexplore.ieee.org/document/9971682) | Conference |
+| 19 | 2022 | CVGIP | Continuous Recognition of Teacher’s Hand Signals for Students with Special Needs in the Classroom | Conference |
+| 20 | 2022 | IEEE Access | Efficient Partition Decision Based on Visual Perception and Machine Learning for H.266/Versatile Video Coding [[link]](https://ieeexplore.ieee.org/document/9758705) | Journal |
+| 21 | 2022 | NST | 智慧製造：基於U-Net網路的石材切片影像精準分割 **[First Author]** | Conference |
+| 22 | 2021 | CVGIP | Fast Partition Decision Based on Visual Perception and Machine Learning for H.266/Versatile Video Coding | Conference |
+| 23 | 2020 | CVGIP | Fast Inter-Prediction Algorithm Based on Machine Learning for H.266/VVC | Conference |
+| 24 | 2019 | CVGIP | Automatic Detection for Diabetic Retinopathy by Multi-channel Convolutional Neural Network | Conference |
+| 25 | 2019 | ISPACS | Trend Prediction of Influenza and the Associated Pneumonia in Taiwan Using Machine Learning [[link]](https://ieeexplore.ieee.org/document/8986244) | Conference |
+| 26 | 2018 | WJCC | Machine learning to relate PM2.5 and PM10 concentrations to outpatient visits for upper respiratory tract infections in Taiwan: A nationwide analysis [[link]](https://pubmed.ncbi.nlm.nih.gov/30148148/) | Journal |
+| 27 | 2018 | IEEE ICCE | Prediction of Outpatient Visits for Upper Respiratory Tract Infections by Machine Learning of PM2.5 and PM10 Levels in Taiwan [[link]](https://ieeexplore.ieee.org/document/8448613) | Conference |
+| 28 | 2017 | ATVB | Multiscale Entropy of Photoplethysmographic Pulse Amplitudes of Bilateral Fingertips Varies by Hand Dominance and Diabetes Status [[link]](https://www.ahajournals.org/doi/10.1161/atvb.37.suppl_1.160) | Conference |
+| 29 | 2017 | Entropy | Discrepancies between Conventional Multiscale Entropy and Modified Short-Time Multiscale Entropy of Photoplethysmographic Pulse Signals in Middle- and Old- Aged Individuals with or without Diabetes [[link]](https://www.mdpi.com/1099-4300/19/3/132) | Journal |
+| 30 | 2017 | Complexity | Glycemic control, Hand Activity, and Complexity of Biological Signals in Diabetes Mellitus [[link]](https://www.hindawi.com/journals/complexity/2017/3472121/) | Journal |
+| 31 | 2017 | Entropy | Multiscale Cross-Approximate Entropy Analysis of Bilateral Fingertips Photoplethysmographic Pulse Amplitudes among Middle-to-Old Aged Individuals with or without Type 2 Diabetes [[link]](https://www.mdpi.com/1099-4300/19/4/145) | Journal |
+| 32 | 2017 | ICA | Multiscale Poincaré Plots of Photoplethysmographic Pulse Amplitude for Appraising of Diabetes [[link]](https://ieeexplore.ieee.org/document/8068426) | Conference |
+| 33 | 2017 | EECSI | Poincaré Plot of Fingertip Photoplethysmogram Pulse Amplitude Suitable to Assess Diabetes Status [[link]](https://ieeexplore.ieee.org/document/8239097) | Conference |
+| 34 | 2017 | NST-ITCOM | 糖尿病對雙手指Photoplethysmography同步脈波訊號間交互複雜度之影響研究 | Conference |
+| 35 | 2017 | NST-ITCOM | 糖尿病對單手指Photoplethysmography脈波信號複雜度之影響研究 | Conference |
 
 ※ Detail Publication: 
 1. ORCID: https://orcid.org/0000-0002-6614-4635
