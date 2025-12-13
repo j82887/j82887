@@ -77,7 +77,7 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Publication Date | Application Number | Patent Number | Title | Patent Type | 國家 | 
 | :----: | :----: | :----: | :---- | :---- | :---- | :-- | 
-| 01 | 2025 | TW | -- | -- | Invention Patent | -- | 
+| 01 | 2025 | US | -- | Interactive Wearable Electronic Device with Facial Expression and Face Recognition and Prompting Functions and Processing Method for Interactive Wearable Electronic Device | Invention Patent | 美國 | 
 | 02 | 2024/06/01 | TW111212982 | I842225 | 具表情及人臉辨識與提示功能之互動式穿戴電子裝置以及互動式穿戴電子裝置處理方法 (Interactive Wearable Electronic Device with Facial Expression and Face Recognition and Prompting Functions and Processing Method for Interactive Wearable Electronic Device) | Invention Patent | 中華民國/台灣 | 
 | 03 | 2024/05/28 | CN202311575095.5 | CN118097737A | 交互式穿戴电子装置及其处理方法 (Interactive wearable electronic device and processing method thereof) | Invention Patent | 中國大陸 | 
 | 04 | 2023/12/16 | TW111121076 | I840828 | 利用影像處理與深度學習之物件偵測模型輔助辨識牙周病及齲齒之系統、電腦程式及電腦可讀取媒體 (System, Computer Program and Computer-Readable Medium for Assisting in Recognition of Periodontitis and Dental Caries by Using Object Detecting Module of Image Processing and Deep Learning) | Invention Patent | 中華民國/台灣 | 
