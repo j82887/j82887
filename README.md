@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chieh-Ming Yang
+- 👋 Hi, I’m Chieh-Ming Yang (Joe)
 - 📫 Email: j82887@gmail.com
 - 💻 Personal Website(Chinese): [Link](https://yangcm6.wordpress.com/)
 
