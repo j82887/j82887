@@ -77,6 +77,7 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Publication Date | Application Number | Patent Number | Title | Patent Type | 國家 | 
 | :----: | :----: | :----: | :---- | :---- | :---- | :-- | 
+| 00 | 2025 | TW | -- | 石材切片種類辨識及可用才積之系統與方法 (System and Method for Identifying Types Of Stone Slices and Available Resources) | 中華民國/台灣 | 
 | 01 | 2025 | US | -- | Interactive Wearable Electronic Device with Facial Expression and Face Recognition and Prompting Functions and Processing Method for Interactive Wearable Electronic Device | Invention Patent | 美國 | 
 | 02 | 2024/06/01 | TW111212982 | I842225 | 具表情及人臉辨識與提示功能之互動式穿戴電子裝置以及互動式穿戴電子裝置處理方法 (Interactive Wearable Electronic Device with Facial Expression and Face Recognition and Prompting Functions and Processing Method for Interactive Wearable Electronic Device) | Invention Patent | 中華民國/台灣 | 
 | 03 | 2024/05/28 | CN202311575095.5 | CN118097737A | 交互式穿戴电子装置及其处理方法 (Interactive wearable electronic device and processing method thereof) | Invention Patent | 中國大陸 | 
