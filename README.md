@@ -7,7 +7,7 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Year | Publisher | Title | Paper |
 | :----: | :----: | :----: | :---- | :---- | 
-| 01 | 2026 | -- | -- | -- |
+| 01 | 2026 | -- | -- | Journal |
 | 02 | 2025 | iFUZZY | A Dual-Stage EEG Classification Framework using Spectral and Connectivity Features for MCI **[First Author]** [[link]](https://ieeexplore.ieee.org/document/11286352) | Conference |
 | 03 | 2025 | IEEE EMBC | Bipolar EEG Power Spectral Density Analysis of Resting-State for Multi-Level Cognitive Impairment Evaluation **[First Author]** [[link]](https://ieeexplore.ieee.org/document/11251631/) | Conference |
 | 04 | 2024 | ICITL | Application of Deep Learning in Music Therapy | Conference | 
