@@ -59,7 +59,7 @@ My researches include image/video coding and processing, medical signal processi
 
 | ID | Date | Title | Participant |
 | :----: | :----: | :---- | :---- | 
-| 01 | 2025/10/08 | [中華大學演講]AI跨域應用: 探索智慧背後的原理[[演講投影片]] | Course Instructor | 
+| 01 | 2025/10/08 | [中華大學演講]AI跨域應用: 探索智慧背後的原理[[演講投影片]](https://drive.google.com/file/d/1PDuCf55u342g4u7NSNMvgfV_eCGWBTLe/view?usp=drive_link) | Course Instructor | 
 | 02 | 2025/05/07 | 影像分割基礎實戰！精準視覺，像素級AI洞察[[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_7749399_64208.jpg) | Course Instructor | 
 | 03 | 2025/04/30 | 打開AI視覺之眼 - 入門物件偵測，零基礎也能學會！[[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_1073747_64208.jpg) | Course Instructor |
 | 04 | 2024/11/06 | [中華大學演講]AI的日常生活應用 - 你不知道的背後技術 [[演講投影片]](https://drive.google.com/file/d/1RAr75xSk8RPJQfyUujx4T4ujvqLqc7zV/view?usp=drive_link) | Course Instructor |
