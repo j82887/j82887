@@ -28,7 +28,7 @@ My researches include image/video coding and processing, medical signal processi
 | 19 | 2022 | IET ICETA | Fast Intra Coding Algorithm Based on Visual Perception Analysis for H.266/VVC [[link]](https://ieeexplore.ieee.org/document/9971682) | Conference |
 | 20 | 2022 | CVGIP | Continuous Recognition of Teacher’s Hand Signals for Students with Special Needs in the Classroom | Conference |
 | 21 | 2022 | IEEE Access | Efficient Partition Decision Based on Visual Perception and Machine Learning for H.266/Versatile Video Coding [[link]](https://ieeexplore.ieee.org/document/9758705) | Journal |
-| 22 | 2022 | NST | 智慧製造：基於U-Net網路的石材切片影像精準分割 **[First Author]** | Conference |
+| 22 | 2022 | NST | 智慧製造：基於U-Net網路的石材切片影像精準分割 **[First Author]** [link] | Conference |
 | 23 | 2021 | CVGIP | Fast Partition Decision Based on Visual Perception and Machine Learning for H.266/Versatile Video Coding [link] | Conference |
 | 24 | 2020 | CVGIP | Fast Inter-Prediction Algorithm Based on Machine Learning for H.266/VVC [link] | Conference |
 | 25 | 2019 | CVGIP | Automatic Detection for Diabetic Retinopathy by Multi-channel Convolutional Neural Network | Conference |
