@@ -67,7 +67,7 @@ My researches include image/video coding and processing, medical signal processi
 | 06 | 2024/05/25、06/01 | 生成式AI培訓工作坊[[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_1904116_93963.jpg) | Course Instructor | 
 | 07 | 2024/03/28、04/11 | 深入電腦視覺 從理論到應用[[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_5878797_29975.jpg) | Course Instructor | 
 | 08 | 2024/03/14、03/21 | Mediapipe 打造視覺應用的關鍵技術 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_4901158_45679.jpg) | Course Instructor | 
-| 08 | 2024/02/29、03/07 | AI基礎課程 讓你無痛入門，打穩根基 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_2674767_81233.jpg) | Course Instructor | 
+| 09 | 2024/02/29、03/07 | AI基礎課程 讓你無痛入門，打穩根基 [[課程海報]](https://eaiot.ndhu.edu.tw/var/file/194/1194/gallery/0/2700/gallery_2700_2674767_81233.jpg) | Course Instructor | 
 | 09 | 2023 | 《東華AI通訊報》第九期[[連結]](https://aioffice.ndhu.edu.tw/var/file/201/1201/img/4513/576506230.pdf) | School Magazine | 
 | 10 | 2023 | 經濟日報2023產學合作(東華大學智慧科技深化產業辦學永續共創雙贏(撰寫部分內容))[[連結]](https://ebook.cens.com/xml/2023/edn08/mobile/index.html#p=66) | Special Issue | 
 | 11 | 2023/01/01 | 《東華AI通訊報》第五期[[連結]](https://aioffice.ndhu.edu.tw/var/file/201/1201/img/4513/260469265.pdf) | School Magazine | 
