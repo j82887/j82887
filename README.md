@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chieh-Ming Yang (Joe)
 - 📫 Email: j82887@gmail.com
-- 💻 Personal Website(Chinese): [New](https://j82887.github.io/?v=20260926-1)      [Old](https://yangcm6.wordpress.com/)
+- 💻 Personal Website(Chinese): [Link](https://j82887.github.io/?v=20260926-1)     
 
 My researches include image/video coding and processing, medical signal processing, EEG analysis, brain-computer interface, and big data analysis in artificial intelligence.
 - Conference paper and journal publication：
